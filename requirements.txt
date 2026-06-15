@@ -5,10 +5,3 @@ scikit-learn
 plotly
 base64
 xgboost==3.2.0
-arrow==1.4.0
-blinker==1.9.0
-click==8.4.1
-fonttools==4.63.0
-GitPython==3.1.50
-matplotlib==3.10.9
-matplotlib-inline==0.2.2
